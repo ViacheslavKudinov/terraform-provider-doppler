@@ -35,6 +35,8 @@ resource "doppler_config" "backend_ci_github" {
 
 ### Read-Only
 
+
+
 - `descriptor` (String) The descriptor (project.config) of the Doppler config
 - `id` (String) The ID of this resource.
 
