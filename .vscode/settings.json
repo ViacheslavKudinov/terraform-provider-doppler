@@ -1,6 +1,0 @@
-{
-    "WhiteSource Advise.Diff.BaseBranch": "master",
-    "githubPullRequests.ignoredPullRequestBranches": [
-        "master"
-    ]
-}
